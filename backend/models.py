@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 import datetime as _dt
 
 import sqlalchemy as _sql
