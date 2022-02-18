@@ -1,5 +1,4 @@
 import datetime as _dt
-import email
 
 import pydantic as _pydantic
 
